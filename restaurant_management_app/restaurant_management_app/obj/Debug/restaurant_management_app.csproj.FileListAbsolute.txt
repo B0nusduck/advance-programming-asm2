@@ -1,0 +1,8 @@
+D:\study\works\advance programming\assignment 2\code\restaurant_management_app\restaurant_management_app\bin\Debug\restaurant_management_app.exe.config
+D:\study\works\advance programming\assignment 2\code\restaurant_management_app\restaurant_management_app\bin\Debug\restaurant_management_app.exe
+D:\study\works\advance programming\assignment 2\code\restaurant_management_app\restaurant_management_app\bin\Debug\restaurant_management_app.pdb
+D:\study\works\advance programming\assignment 2\code\restaurant_management_app\restaurant_management_app\obj\Debug\restaurant_management_app.csproj.AssemblyReference.cache
+D:\study\works\advance programming\assignment 2\code\restaurant_management_app\restaurant_management_app\obj\Debug\restaurant_management_app.csproj.SuggestedBindingRedirects.cache
+D:\study\works\advance programming\assignment 2\code\restaurant_management_app\restaurant_management_app\obj\Debug\restaurant_management_app.csproj.CoreCompileInputs.cache
+D:\study\works\advance programming\assignment 2\code\restaurant_management_app\restaurant_management_app\obj\Debug\restaurant_management_app.exe
+D:\study\works\advance programming\assignment 2\code\restaurant_management_app\restaurant_management_app\obj\Debug\restaurant_management_app.pdb
