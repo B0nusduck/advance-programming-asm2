@@ -25,13 +25,11 @@ namespace restaurant_management_app
                 {
                     case '1':
                         {
-                            //Console.WriteLine("customer view, work in progress");
                             table.tableMenu();
                         }
                         break;
                     case '2':
                         {
-                            //Console.WriteLine("employee view, work in progress");
                             employee.employeeMenu();
                         }
                         break;
